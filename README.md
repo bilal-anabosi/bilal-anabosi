@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikit-learn,pandas,numpy,react,nodejs,javascript,cpp,scala,apachekafka,mongodb,elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikit-learn,react,nodejs,javascript,cpp,scala,apachekafka,mongodb,elasticsearch" />
 </p>
 
 <p align="center">
