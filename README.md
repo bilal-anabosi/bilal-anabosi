@@ -15,10 +15,16 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,pandas,java,git,github,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikit-learn,pandas,numpy,react,nodejs,javascript,cpp,scala,apachekafka,mongodb,elasticsearch" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spark,kafka" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
 </p>
 
 ---
+
 
 ### 🎯 Focus Areas
 
