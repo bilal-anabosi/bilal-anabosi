@@ -15,12 +15,11 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikit-learn,react,nodejs,javascript,cpp,scala,apachekafka,mongodb,elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,react,nodejs,javascript,cpp,scala,mongodb,elasticsearch" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spark,kafka" />
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
 </p>
 
 ---
