@@ -28,7 +28,6 @@
 
 - LLM Fine-tuning & Deployment
 - Deep Learning & Transfer Learning
-- Speech & Text Processing
 - Machine Learning Engineering
 
 ---
