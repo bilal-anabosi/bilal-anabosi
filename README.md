@@ -5,7 +5,7 @@
 ### 🚀 About Me
 
 - 🎓 I'm a **Computer Science student** at **NNU**.
-- 🤖 Currently diving into **Artificial Intelligence**, **Deep Learning**, and building real-world applications.
+- 🤖 Currently diving into **Artificial Intelligence**, **Deep Learning**.
 - 📚 Exploring **Large Language Models (LLMs)**.
 - 🧠 Always curious, always learning.
 
